@@ -11,7 +11,7 @@ Donderdag 1 maart van 18:30 tot 22:30
 Je kunt je aanmelden als team of als individu. Wanneer je er voor kiest om je als individu aan te melden gaan wij proberen om jou in een team te plaatsen op de avond zelf. Of, wanneer er voldoende individuele aanmeldingen zijn, een nieuw team te formeren.
 
 Om je aan te melden kun je een [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) indienen voor de [deelnemers lijst](./Deelnemers.md) en jezelf of je team toevoegen aan de lijst met deelnemers.
-Als je een team aanmeld zou het fijn zijn als je de namen van je teamleden ook vermeld in verband met het aantal beschikbare plaatsen op onze locatie in Leeuwarden.
+Als je een team aanmeldt zou het fijn zijn als je de namen van je teamleden ook vermeldt in verband met het aantal beschikbare plaatsen op onze locatie in Leeuwarden.
 
 ## En hoe nu verder?!
 
