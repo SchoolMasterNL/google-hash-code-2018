@@ -7,8 +7,8 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
 ## Teams
 
 **MAD**
-  - [@dlemstra](https://github.com/dlemstra)
-  - [@dotarj](https://github.com/dotarj)
-  - [@mkromkamp](https://github.com/mkromkamp)
+  - [Martin Kromkamp](https://github.com/mkromkamp)
+  - [Arjen Post](https://github.com/dotarj)
+  - [Dirk Lemstra](https://github.com/dlemstra)
 
 ## Individueel
