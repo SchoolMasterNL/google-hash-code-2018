@@ -16,4 +16,13 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
   - [Obe Attema](https://github.com/obea)
   - [Jan Wilts](https://github.com/amorandron)
 
+**Moose**
+  - [Jan Nijboer](https://github.com/jrnijboer)
+  - Timo Bredenoort
+  - Robert Weiland
+
+**Knuckle**
+  - [Joost Molenaar](https://github.com/j0057)
+  - Ayhan Ozturk
+
 ## Individueel
