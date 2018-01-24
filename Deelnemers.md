@@ -13,5 +13,6 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
 
 **Unnamed team**
   - [Kleis Auke Wolthuizen](https://github.com/kleisauke)
+  - [Obe Attema](https://github.com/obea)
 
 ## Individueel
