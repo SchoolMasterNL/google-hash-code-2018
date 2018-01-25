@@ -31,7 +31,7 @@ Omdat een goede voorbereiding het halve werk is!
 ### Vooraf
 
 - Iedere deelnemer moet zich individueel [inschrijven](https://events.withgoogle.com/hashcode2018-signup/registrations/new/). Dit kan tot 24 uur duren, daarom is het verstandig om dit op tijd te doen
-- Wanneer je al een team hebt kunnen jullie, wanneer iedereen zich heeft aangemeld, je inschrijven als team. Het vormen van een team gebeurt via het [judge system](https://hashcodejudge.withgoogle.com/)
+- Wanneer je al een team hebt kunnen jullie, wanneer iedereen zich heeft aangemeld, je inschrijven als [team](https://hashcodejudge.withgoogle.com/#/my-team). Het vormen van een team gebeurt via het [judge system](https://hashcodejudge.withgoogle.com/)
 - Je kunt de opdrachten van [vorige edities](https://hashcode.withgoogle.com/past_editions.html) online bekijken
 - Daarnaast is er ook een officiele [FAQ](https://hashcode.withgoogle.com/faq.html)
 
