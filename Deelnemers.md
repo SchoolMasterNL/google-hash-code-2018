@@ -25,4 +25,8 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
   - [Joost Molenaar](https://github.com/j0057)
   - Ayhan Ozturk
 
+**Rockstar**
+  - [Jan Broeze](https://github.com/stekks)
+  - Maurits Hafkamp
+
 ## Individueel
