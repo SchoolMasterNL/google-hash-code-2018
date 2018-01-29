@@ -28,5 +28,6 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
 **Rockstar**
   - [Jan Broeze](https://github.com/stekks)
   - Maurits Hafkamp
+  - Rutger Schoorstra
 
 ## Individueel
