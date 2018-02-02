@@ -24,6 +24,7 @@ Op deze manier houden wij overzicht wie er komen en kunnen wij er voor zorgen da
 **Knuckle**
   - [Joost Molenaar](https://github.com/j0057)
   - Ayhan Ozturk
+  - Frans Hoekstra
 
 **Rockstar**
   - [Jan Broeze](https://github.com/stekks)
